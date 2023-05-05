@@ -1,0 +1,43 @@
+#SignInform-data{
+    width: 35% !important;
+    background: white;
+
+    margin: 0 auto;
+    border: 1px solid rgba(128, 128, 128, 0.605);
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 130px !important;
+    border-radius: 4px ;
+
+}
+
+#SignInform-data h5{
+     font-weight: bold;
+     text-align: center;
+     font-size: 30px;
+}
+#SignInform-data hr{
+    width: 100px;
+    margin: 20px auto;
+    color: red !important;
+    font-weight: bold !important;
+    border: 1px solid red;
+    background: red !important;
+}
+#SignInform-data label{
+     font-weight: bold;
+     font-size: 15px;
+}
+#SignInform-data input{
+    border-radius: 0 !important;
+    border:1px solid rgba(128, 128, 128, 0.793);
+    
+}
+#SignInform-data button{
+        left: 45%;
+        position: absolute;
+        border-radius: 0 !important;
+        padding: 8px 40px;
+        border: 2px solid brown;
+        font-weight: bold;
+}

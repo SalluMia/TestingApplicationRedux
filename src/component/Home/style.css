@@ -1,0 +1,22 @@
+.home-detail{
+     /* background: white; */
+     margin: 20px;
+    
+}
+.home-detail .col-sm-4{
+      margin-top: 10px !important;
+      padding: 3px !important;
+}
+#cards {
+      background: white !important;
+     padding: 2px !important;
+     border-radius: 5px;
+     box-sizing: border-box !important;
+}
+.home-detail .col-sm-9{
+      padding: 0;
+}
+.home-detail .col-sm-3{
+      padding:0 4px;
+}
+
